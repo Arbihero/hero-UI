@@ -60,9 +60,9 @@ const Home: React.FC = () => {
     <Page>
       <Hero>
         <Heading as="h1" size="xl" mb="24px" color="secondary">
-          {TranslateString(576, 'ArbiHero Finance')}
+          {TranslateString(576, 'Hero Finance')}
         </Heading>
-        <Text>{TranslateString(578, 'Top DEFI project on Arbitrum.')}</Text>
+        <Text>{TranslateString(578, 'Top DEFI project on BSC.')}</Text>
       </Hero>
       <div>
         <Cards>
